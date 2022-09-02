@@ -1,0 +1,64 @@
+/* Nome: Alana Cristina Lima de Oliveira  Matrícula: 495702 */
+body {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.livro h2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.livro p{
+    display: flex;
+    justify-content: end;
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.imagemLivro{
+    display: flex;
+    height: 25rem;
+    justify-content: center;
+}
+
+.cep{
+    display: flex;
+    justify-content: left; 
+    color: #666666;
+    margin-left: 100px;
+}
+
+#cinza{
+    display: flex;
+    justify-content: left; 
+    color: #666666;
+    font-size: larger;
+}
+
+#verde{
+    display: flex;
+    justify-content: left;
+    font-size: x-large;
+    color: #4EC704;
+}
+
+#azul{
+    display: flex;
+    justify-content: right; 
+    color: #1287F2;
+    font-size: large;
+    text-decoration: underline;
+    margin-right: 100px;
+}
